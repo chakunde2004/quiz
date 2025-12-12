@@ -6,13 +6,13 @@ The project includes smooth UI animations, theme switching, answer review mode, 
 ---
 
 ## 🚀 Live Demo  
-🔗 **Deployed Link:** https://quizapp-blond-psi-64.vercel.app/  
+🔗 **Deployed Link:** https://quiz-lake-beta.vercel.app/ 
 (Replace with your actual link)
 
 ---
 
 ## 📁 GitHub Repository  
-🔗 https://github.com/sahil1326kale/quizapp  
+🔗 https://github.com/chakunde2004/quiz
 
 
 ---
@@ -74,7 +74,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/sahil1326kale/quizapp
+git https://github.com/chakunde2004/quiz
 
 # Move into project folder
 cd quiz-app-frontend-intern-assignment
